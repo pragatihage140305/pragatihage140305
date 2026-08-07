@@ -1,26 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Pragati%20Hage&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:5B21B6,50:7C3AED,100:A855F7&text=Pragati%20Hage&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 # 👋 Hi, I'm Pragati Hage
 
-### 🐍 Python Developer | 📊 Data Analyst | 🗄️ SQL Enthusiast
+### 🐍 Python Developer • 📊 Data Analyst • 🗄️ SQL Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;Python+Developer;Data+Analytics+Enthusiast;SQL+Learner;Always+Learning+New+Things+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Python+Developer;Data+Analytics+Enthusiast;SQL+%7C+PostgreSQL;Learning+Something+New+Every+Day+🚀"/>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+<img align="right" width="380" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-<img align="right" alt="Coding" width="360" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+# 💜 About Me
 
 🎓 **B.Tech in Computer Science Engineering (CSE)**
 
 📍 **Nagpur, Maharashtra, India**
 
-💻 Passionate about **Python Programming**, **SQL**, and **Data Analytics**.
+💻 Passionate about solving real-world problems with **Python, SQL and Data Analytics**.
 
 🌱 **Currently Learning**
 
@@ -31,10 +31,11 @@
 - 📈 Power BI
 - 💻 DSA
 
-💡 **Interested In**
+💡 **Areas of Interest**
 
 - 📊 Data Analytics
 - 📈 Data Visualization
+- 🤖 Machine Learning
 - 💻 Software Development
 
 🎯 **Career Goal**
@@ -43,172 +44,201 @@ Become a Professional **Data Analyst**.
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Tech Stack
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,postgres,git,github,vscode"/>
 
-</p>
-
-<p align="center">
+<br><br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Data%20Analytics-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-7C3AED?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-</p>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</div>
+
+---
+
+# ✨ What I Do
+
+✔ Python Programming
+
+✔ Data Analysis
+
+✔ SQL Queries
+
+✔ Database Management
+
+✔ Exploratory Data Analysis (EDA)
+
+✔ Data Cleaning
+
+✔ Dashboard Preparation
+
+✔ Problem Solving
 
 ---
 
 # 🚀 Featured Projects
 
-### 📌 Smart Attendance Tracker System
+## 📌 Smart Attendance Tracker System
 
-✔ Face Recognition
+> AI-powered attendance system with biometric authentication and analytics.
 
-✔ Fingerprint Authentication
+⭐ Features
 
-✔ Attendance Dashboard
-
-✔ Real-time Monitoring
-
----
-
-### 📌 Retail Sales EDA
-
-✔ Data Cleaning
-
-✔ Data Visualization
-
-✔ Exploratory Data Analysis
-
-✔ Business Insights
+- Face Recognition
+- Attendance Dashboard
+- Fingerprint Authentication
+- Real-Time Monitoring
 
 ---
 
-### 📌 Healthcare Risk Analysis
+## 📌 Healthcare Risk Analysis
 
-✔ Data Preprocessing
-
-✔ Data Analysis
-
-✔ Risk Prediction
+Healthcare analytics project for predicting diabetes and heart disease using Python.
 
 ---
 
-### 📌 Python Practice Repository
+## 📌 Retail Sales EDA
 
-✔ Python Basics
+Analyze retail sales data using
 
-✔ OOP
+- Pandas
+- NumPy
+- Matplotlib
 
-✔ File Handling
-
-✔ Exception Handling
-
-✔ Mini Projects
+Generate business insights through Exploratory Data Analysis.
 
 ---
 
-### 📌 SQL Practice Repository
+## 📌 Python Practice Repository
 
-✔ Basic SQL
+Contains
 
-✔ Joins
-
-✔ Views
-
-✔ Functions
-
-✔ Stored Procedures
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pragatihage140305&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragatihage140305&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+- Python Basics
+- OOP
+- File Handling
+- Exception Handling
+- Functions
+- Mini Projects
 
 ---
 
-# 🔥 GitHub Streak
+## 📌 SQL Practice Repository
 
-<p align="center">
+Contains
 
-<img src="https://streak-stats.demolab.com?user=pragatihage140305&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pragatihage140305&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pragatihage140305&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pragati-hage-934a1b321/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/pragatihage140305" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="50" />
-  </a>
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=pragatihage140305&label=Profile%20Views&style=for-the-badge&color=blueviolet"/>
-
-</p>
+- SQL Basics
+- Joins
+- Views
+- Functions
+- Stored Procedures
+- Queries
 
 ---
 
 <div align="center">
 
-## 💜 Turning Data into Insights with Python & SQL
-
-### ⭐ Thanks for Visiting My Profile ⭐
-
-**If you like my work, don't forget to ⭐ my repositories!**
+## 💜 "Turning Data Into Insights"
 
 </div>
 
-<p align="center">
+---                                                                                                                                       
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=6,11,20,24,30"/>
+# 📊 GitHub Analytics
 
-</p>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pragatihage140305&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragatihage140305&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=pragatihage140305&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pragatihage140305&theme=tokyonight&no-frame=true&margin-w=12&row=1"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pragatihage140305&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/pragati-hage-934a1b321/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/pragatihage140305">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=pragatihage140305&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💜 Quote
+
+<div align="center">
+
+### ✨ *"Data is the new oil, but insights are the real fuel."*
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for Visiting My Profile ⭐
+
+### If you like my work, don't forget to ⭐ my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:5B21B6,50:7C3AED,100:A855F7"/>
+
+</div>
