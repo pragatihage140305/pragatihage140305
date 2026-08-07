@@ -11,9 +11,7 @@
 </div>
 
 ---
-<br>
-<img align="right" width="380" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
- <br>
+            <img align="right" width="380" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
  
 ## 👩‍💻 About Me
 
