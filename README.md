@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Pragati%20Hage&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20Python%20%C2%B7%20SQL%20%C2%B7%20Power%20BI&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Pragati%20Hage&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20Python%20%C2%B7%20SQL&descAlignY=55&descSize=18" width="100%"/>
 
 <br>
 
@@ -13,7 +13,7 @@
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,powerbi,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" />
 </div>
 
 <br>
