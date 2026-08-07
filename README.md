@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20,24,30&text=Pragati%20Hage&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1A1A2E,50:16213E,100:0F3460&text=Pragati%20Hage&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>>
 
 # 👋 Hi, I'm Pragati Hage
 
