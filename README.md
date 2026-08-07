@@ -11,10 +11,7 @@
 </div>
 
 ---
-<table>
-<tr>
-
-<td width="65%" valign="top">
+<img align="left" alt="Coding" width="300" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
   
 ## 👩‍💻 About Me
 
@@ -41,17 +38,7 @@
 
 🎯 Goal: Become a Professional **Data Analyst**
 
-
-</td>
-
-<td width="35%" valign="top" align="center">
-
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="330"/>
-
-</td>
-
-</tr>
-</table>
+<br clear="left"/>
 
 ---
 
