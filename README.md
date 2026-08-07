@@ -173,20 +173,16 @@ Become a Professional **Data Analyst**.
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/pragati-hage-934a1b321/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/pragatihage140305" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/pragati-hage-934a1b321/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/pragatihage140305" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50" />
+  </a>
 </p>
 
 ---
