@@ -13,7 +13,13 @@
 ---
 
 
-<img align="right" width="300" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<td width="35%" valign="middle">
+
+<div align="center">
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="280"/>
+</div>
+
+</td>
 
 
 ## 👩‍💻 About Me
@@ -40,14 +46,6 @@
 - 💻 Software Development
 
 🎯 Goal: Become a Professional **Data Analyst**
-
-<td width="35%" valign="middle">
-
-<div align="center">
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="280"/>
-</div>
-
-</td>
 
 ---
 
