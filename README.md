@@ -41,6 +41,14 @@
 
 🎯 Goal: Become a Professional **Data Analyst**
 
+<td width="35%" valign="middle">
+
+<div align="center">
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="280"/>
+</div>
+
+</td>
+
 ---
 
 # 🚀 Tech Stack
