@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:232526,50:414345,100:6A11CB&text=Pragati%20Hage&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Pragati%20Hage&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
 # 👋 Hi, I'm Pragati Hage
 
 ### 🐍 Python Developer | 📊 Data Analyst | 🗄️ SQL Enthusiast
