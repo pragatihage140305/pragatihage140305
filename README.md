@@ -6,7 +6,7 @@
 
 ### 🐍 Python Developer | 📊 Data Analyst | 🗄️ SQL Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Analytics+Enthusiast;SQL+Learner;Always+Learning+New+Things+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;Python+Developer;Data+Analytics+Enthusiast;SQL+Learner;Always+Learning+New+Things+🚀"/>
 
 </div>
 
@@ -14,13 +14,15 @@
 
 # 👩‍💻 About Me
 
+<img align="right" alt="Coding" width="360" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+
 🎓 **B.Tech in Computer Science Engineering (CSE)**
 
 📍 **Nagpur, Maharashtra, India**
 
-💻 Passionate about Python Programming, SQL and Data Analytics.
+💻 Passionate about **Python Programming**, **SQL**, and **Data Analytics**.
 
-🌱 Currently Learning
+🌱 **Currently Learning**
 
 - 🐍 Python
 - 🗄 SQL
@@ -29,15 +31,15 @@
 - 📈 Power BI
 - 💻 DSA
 
-💡 Interested In
+💡 **Interested In**
 
-- Data Analytics
-- Data Visualization
-- Software Development
+- 📊 Data Analytics
+- 📈 Data Visualization
+- 💻 Software Development
 
-🎯 Goal
+🎯 **Career Goal**
 
-Become a Professional Data Analyst.
+Become a Professional **Data Analyst**.
 
 ---
 
@@ -53,9 +55,9 @@ Become a Professional Data Analyst.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Data%20Analytics-00C853?style=for-the-badge"/>
 
@@ -69,47 +71,63 @@ Become a Professional Data Analyst.
 
 ### 📌 Smart Attendance Tracker System
 
-AI-powered attendance management system with biometric authentication.
+✔ Face Recognition
+
+✔ Fingerprint Authentication
+
+✔ Attendance Dashboard
+
+✔ Real-time Monitoring
 
 ---
 
 ### 📌 Retail Sales EDA
 
-Exploratory Data Analysis using Python, Pandas, NumPy and Matplotlib.
+✔ Data Cleaning
+
+✔ Data Visualization
+
+✔ Exploratory Data Analysis
+
+✔ Business Insights
 
 ---
 
 ### 📌 Healthcare Risk Analysis
 
-Data analysis project for healthcare insights and prediction.
+✔ Data Preprocessing
+
+✔ Data Analysis
+
+✔ Risk Prediction
 
 ---
 
 ### 📌 Python Practice Repository
 
-Python programs covering:
+✔ Python Basics
 
-- Basic Python
-- OOP
-- File Handling
-- Exception Handling
-- Mini Projects
+✔ OOP
+
+✔ File Handling
+
+✔ Exception Handling
+
+✔ Mini Projects
 
 ---
 
 ### 📌 SQL Practice Repository
 
-SQL Queries
+✔ Basic SQL
 
-Database Design
+✔ Joins
 
-Joins
+✔ Views
 
-Views
+✔ Functions
 
-Functions
-
-Stored Procedures
+✔ Stored Procedures
 
 ---
 
@@ -117,9 +135,9 @@ Stored Procedures
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=pragatihage140305&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pragatihage140305&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragatihage140305&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragatihage140305&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -159,13 +177,13 @@ Stored Procedures
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/pragati-hage-934a1b321/">
+<a href="https://www.linkedin.com/in/pragati-hage-934a1b321/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/pragatihage140305">
+<a href="https://github.com/pragatihage140305" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
@@ -177,7 +195,7 @@ Stored Procedures
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=pragatihage140305&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=pragatihage140305&label=Profile%20Views&style=for-the-badge&color=blueviolet"/>
 
 </p>
 
@@ -189,7 +207,7 @@ Stored Procedures
 
 ### ⭐ Thanks for Visiting My Profile ⭐
 
-If you like my work, don't forget to ⭐ my repositories!
+**If you like my work, don't forget to ⭐ my repositories!**
 
 </div>
 
