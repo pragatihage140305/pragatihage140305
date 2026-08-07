@@ -11,49 +11,32 @@
 </div>
 
 ---
+<img align="right" width="300" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-<table>
-<tr>
-
-<td width="58%" valign="top">
-
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
 🎓 **B.Tech in Computer Science Engineering (CSE)**
 
-📍 **Nagpur, Maharashtra, India**
+📍 Nagpur, Maharashtra, India
 
 💻 Passionate about **Python, SQL & Data Analytics**
 
-🌱 **Currently Learning**
+🌱 Currently Learning
 
 - 🐍 Python
-- 🗄 SQL
+- 🗄️ SQL
 - 🐘 PostgreSQL
 - 📊 Data Analytics
 - 📈 Power BI
 - 💻 DSA
 
-💡 **Interested In**
+💡 Interested In
 
-- Data Analytics
-- Data Visualization
-- Software Development
+- 📊 Data Analytics
+- 📈 Data Visualization
+- 💻 Software Development
 
-🎯 **Goal**
-
-Become a Professional **Data Analyst**
-
-</td>
-
-<td width="42%" align="center" valign="top">
-
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="330"/>
-
-</td>
-
-</tr>
-</table>
+🎯 Goal: Become a Professional **Data Analyst**
 
 ---
 
