@@ -1,45 +1,97 @@
-<h1 align="center">Hi, I'm Pragati Hage 👋</h1>
-<h3 align="center">Aspiring Data Analyst | Python · SQL · Power BI</h3>
+<div align="center">
 
-<p align="center">
-  I turn raw data into clear, actionable insights — currently building projects around EDA,
-  dashboards, and predictive analytics.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Pragati%20Hage&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20Python%20%C2%B7%20SQL%20%C2%B7%20Power%20BI&descAlignY=55&descSize=18" width="100%"/>
 
 <br>
 
-## 🔧 Tech Stack
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=8855F7&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+insights;Python+%7C+SQL+%7C+Data+Analytics;Always+learning+something+new" />
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-</p>
+</div>
+
+<br>
+
+## 🧰 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,powerbi,git,github,vscode&theme=dark" />
+</div>
+
+<br>
 
 ## 📌 Featured Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**Retail Sales EDA**](https://github.com/pragatihage140305/retail-sales-eda) | Cleaned messy retail data and surfaced sales trends, seasonality, and top-performing categories | Python, Pandas, Matplotlib |
-| **Healthcare Risk Analysis** *(add your own version)* | Exploratory analysis + basic risk scoring for diabetes/heart disease indicators | Python, Pandas, Scikit-learn |
-| **SQL Practice → SQL Portfolio** *(rename & expand)* | Real queries: joins, window functions, views, stored procedures on a sample business dataset | PostgreSQL |
+<table>
+<tr>
+<td width="50%">
 
-> 💡 Tip: replace the placeholder rows above once you've added your own READMEs (see notes below) — each row should link to a repo that isn't a fork.
+### 📊 [Retail Sales EDA](https://github.com/pragatihage140305/retail-sales-eda)
+Cleaned messy retail data and surfaced sales trends, seasonality, and top-performing categories.
+
+`Python` `Pandas` `Matplotlib`
+
+</td>
+<td width="50%">
+
+### ❤️ Healthcare Risk Analysis
+Exploratory analysis and basic risk scoring for diabetes/heart disease indicators.
+
+`Python` `Pandas` `Scikit-learn`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🗄️ SQL Portfolio
+Real queries covering joins, window functions, views, and stored procedures.
+
+`PostgreSQL`
+
+</td>
+<td width="50%">
+
+### 🤖 Smart Attendance Tracker
+Biometric attendance system with facial recognition and real-time analytics.
+
+`Python` `OpenCV`
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pragatihage140305&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragatihage140305&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pragatihage140305&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragatihage140305&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+</div>
+
+<br>
 
 ## 🌱 Currently Learning
-`Advanced SQL` · `Power BI Dashboards` · `Data Structures & Algorithms`
+
+<div align="center">
+
+`Advanced SQL` &nbsp;·&nbsp; `Power BI Dashboards` &nbsp;·&nbsp; `Data Structures & Algorithms`
+
+</div>
+
+<br>
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragati-hage-934a1b321/)
 
-<p align="center"><i>"Turning data into insights, one query at a time."</i></p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/pragati-hage-934a1b321/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <i>"Turning data into insights, one query at a time."</i>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
