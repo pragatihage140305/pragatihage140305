@@ -11,7 +11,7 @@
 </div>
 
 ---
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align="right" alt="Coding" width="300" hspace="20" vspace="40" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
   
 ## 👩‍💻 About Me
 
