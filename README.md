@@ -11,7 +11,11 @@
 </div>
 
 ---
+<table>
+<tr>
 
+<td width="65%" valign="top">
+  
 ## 👩‍💻 About Me
 
 🎓 **B.Tech in Computer Science Engineering (CSE)**
@@ -36,6 +40,18 @@
 - 💻 Software Development
 
 🎯 Goal: Become a Professional **Data Analyst**
+
+
+</td>
+
+<td width="35%" valign="top" align="center">
+
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="330"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
