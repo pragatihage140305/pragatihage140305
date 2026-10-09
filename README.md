@@ -1,97 +1,61 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Pragati%20Hage&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20Python%20%C2%B7%20SQL&descAlignY=55&descSize=18" width="100%"/>
+# Hi, I'm Pragati Hage 👋
 
-<br>
+### Aspiring Data Analyst | Python | SQL | Excel
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=8855F7&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+insights;Python+%7C+SQL+%7C+Data+Analytics;Always+learning+something+new" />
+🎓 Computer Science Engineering Student (2023–2027)
 
-</div>
+I am passionate about data analytics and transforming raw data
+into meaningful insights that support better business decisions.
 
-<br>
+I enjoy exploring datasets, cleaning data, writing SQL queries,
+and creating visualizations to discover useful patterns.
 
-## 🧰 Tech Stack
+## 🛠️ Technical Skills
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" />
-</div>
+- **Programming:** Python
+- **Data Analysis:** Pandas, NumPy
+- **Visualization:** Matplotlib, Seaborn
+- **Databases:** PostgreSQL, MySQL
+- **Excel:** Formulas, IF, Conditional Formatting
+- **Currently Learning:** Power BI, Advanced SQL
 
-<br>
+## 📊 Featured Projects
 
-## 📌 Featured Projects
+### 1. Retail Sales EDA
+Exploratory data analysis to understand sales trends,
+product performance, and business insights.
 
-<table>
-<tr>
-<td width="50%">
+🔗 [View Project](https://github.com/pragatihage140305/retail-sales-eda)
 
-### 📊 [Retail Sales EDA](https://github.com/pragatihage140305/retail-sales-eda)
-Cleaned messy retail data and surfaced sales trends, seasonality, and top-performing categories.
+### 2. Healthcare Risk Analysis
+Exploring healthcare data to understand risk factors
+and identify useful patterns.
 
-`Python` `Pandas` `Matplotlib`
+🔗 [View Project](https://github.com/pragatihage140305/healthcare-risk-analysis)
 
-</td>
-<td width="50%">
+### 3. SQL & PostgreSQL Practice
+Practicing SQL queries, database operations,
+filtering, aggregation, and data analysis.
 
-### ❤️ Healthcare Risk Analysis
-Exploratory analysis and basic risk scoring for diabetes/heart disease indicators.
+🔗 [Explore My Repositories](https://github.com/pragatihage140305?tab=repositories)
 
-`Python` `Pandas` `Scikit-learn`
+## 🌱 Currently Working On
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+- Improving SQL problem-solving skills
+- Practicing real-world data cleaning and EDA
+- Learning Power BI dashboards
+- Building end-to-end data analytics projects
 
-### 🗄️ SQL Portfolio
-Real queries covering joins, window functions, views, and stored procedures.
+## 🎯 My Goal
 
-`PostgreSQL`
+To become a skilled Data Analyst by combining
+technical skills, analytical thinking, and business understanding.
 
-</td>
-<td width="50%">
+## 🤝 Let's Connect
 
-### 🤖 Smart Attendance Tracker
-Biometric attendance system with facial recognition and real-time analytics.
+- [GitHub](https://github.com/pragatihage140305)
+- [LinkedIn](https://www.linkedin.com/in/pragati-hage-934a1b321)
 
-`Python` `OpenCV`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pragatihage140305&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragatihage140305&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
-</div>
-
-<br>
-
-## 🌱 Currently Learning
-
-<div align="center">
-
-`Advanced SQL` &nbsp;·&nbsp; `Power BI Dashboards` &nbsp;·&nbsp; `Data Structures & Algorithms`
-
-</div>
-
-<br>
-
-## 📫 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/pragati-hage-934a1b321/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <i>"Turning data into insights, one query at a time."</i>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
+---
+⭐ Thanks for visiting my profile!
