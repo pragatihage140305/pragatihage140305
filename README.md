@@ -1,19 +1,20 @@
 
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Pragati Hage - Data Analyst Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071522,50:075985,100:06B6D4&height=220&section=header&text=Pragati%20Hage&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=ASPIRING%20DATA%20ANALYST&descSize=20&descAlignY=58&descColor=67E8F9" width="100%" alt="Pragati Hage Data Analyst Header"/>
+
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+meaningful+insights;Exploring+data+with+Python+and+SQL;Learning+to+build+better+dashboards" alt="Typing SVG"/>
+</a>
 
 <br/>
 
-
-### Aspiring Data Analyst | Python | SQL | Excel
-
-🎓 Computer Science Engineering Student (2023–2027)
-
-*Turning raw data into meaningful insights.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pragati-hage-934a1b321)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/pragatihage140305)
+<a href="https://www.linkedin.com/in/pragati-hage-934a1b321">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/pragatihage140305">
+<img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
 
 </div>
 
@@ -21,76 +22,96 @@
 
 ## 👩‍💻 About Me
 
-Hello! I'm Pragati Hage, a Computer Science Engineering student passionate about data analytics and problem-solving.
+Hello! I'm Pragati Hage, a Computer Science Engineering student
+(2023–2027) interested in Data Analytics and business intelligence.
 
-I enjoy exploring datasets, cleaning data, writing SQL queries, and creating visualizations to discover meaningful patterns and business insights.
+I enjoy cleaning datasets, exploring patterns, writing SQL queries,
+and creating visualizations to turn raw data into useful insights.
 
-- 🎓 B.Tech in Computer Science Engineering (2023–2027)
-- 📊 Interested in data analysis and business intelligence
-- 🐍 Practicing Python for data analysis
-- 🗄️ Learning SQL and database management
-- 📈 Exploring Excel dashboards and Power BI
+- 🎓 Computer Science Engineering student
+- 📊 Interested in data analysis and visualization
+- 🐍 Practicing Python, Pandas and NumPy
+- 🗄️ Learning SQL and PostgreSQL
+- 📈 Exploring Excel and Power BI dashboards
+
+---
 
 ## 🛠️ Technical Skills
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode&theme=dark" alt="Technical skills"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
 
 </div>
 
-## 📊 Featured Projects
+---
+
+## 📊 Featured Analytics Projects
 
 ### 📈 Retail Sales EDA
 
-Exploratory data analysis to understand sales trends, product performance, and business insights.
+Exploratory data analysis to investigate sales trends,
+product performance, and business insights.
 
-🔗 [View My Repositories](https://github.com/pragatihage140305?tab=repositories)
+**Tools:** Python, Pandas, Matplotlib, Seaborn
 
-### 🏥 Healthcare Risk Analysis
+[Explore my repositories →](https://github.com/pragatihage140305?tab=repositories)
 
-Exploring healthcare data to understand risk factors and identify useful patterns.
+### 🗄️ SQL & PostgreSQL Analytics
 
-🔗 [View My Repositories](https://github.com/pragatihage140305?tab=repositories)
+Practicing database operations, filtering, sorting,
+aggregation, and analytical SQL queries.
 
-### 🗄️ SQL & PostgreSQL Practice
+**Tools:** SQL, PostgreSQL
 
-Practicing SQL queries, database operations, filtering, sorting, and aggregation.
-
-🔗 [View My SQL Projects](https://github.com/pragatihage140305?tab=repositories)
+[Explore my repositories →](https://github.com/pragatihage140305?tab=repositories)
 
 ### 📗 Excel Learning Journey
 
-Practicing Excel formulas, IF functions, conditional formatting, and data analysis.
+Practicing formulas, conditional formatting,
+data organization, and spreadsheet analysis.
 
-🔗 [View My Repositories](https://github.com/pragatihage140305?tab=repositories)
+**Tools:** Microsoft Excel
 
-## 🌱 Currently Working On
+[Explore my repositories →](https://github.com/pragatihage140305?tab=repositories)
 
-- Improving SQL problem-solving skills
-- Practicing real-world data cleaning and EDA
-- Learning Power BI dashboards
-- Building end-to-end data analytics projects
+### 🏥 Healthcare Risk Analysis
 
-## 🎯 My Goal
+Exploring healthcare data to identify patterns and
+understand potential risk factors.
 
-To become a skilled Data Analyst by combining technical skills, analytical thinking, and business understanding.
+[Explore my repositories →](https://github.com/pragatihage140305?tab=repositories)
 
 ---
 
+## 🌱 Currently Learning
+
+- Advanced SQL and analytical queries
+- Data cleaning and exploratory data analysis
+- Power BI and interactive dashboards
+- Business-focused data analytics projects
+
+---
+
+## 🎯 My Goal
+
+To become a skilled Data Analyst by combining technical knowledge,
+analytical thinking, and business understanding.
+
 <div align="center">
 
-### Analyze • Visualize • Discover • Improve 📊
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:075985,100:071522&height=100&section=footer" width="100%" alt="Blue footer"/>
 
-⭐ Thanks for visiting my profile!
+**Analyze • Visualize • Discover • Improve** 📊
+
+*Thanks for visiting my profile!*
 
 </div>
