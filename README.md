@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./git%20hub.png" width="100%" alt="Pragati Hage - Data Analyst Banner"/>
+<img src="./banner.png" width="100%" alt="Pragati Hage - Data Analyst Banner"/>
 
 <br/>
 
