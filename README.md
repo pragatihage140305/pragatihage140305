@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Pragati Hage - Data Analyst"/>
+<img src="./git%20hub.png" width="100%" alt="Pragati Hage - Data Analyst Banner"/>
 
 <br/>
 
@@ -20,11 +20,15 @@
 
 ## 👩‍💻 About Me
 
-I am passionate about data analytics and transforming raw data
-into meaningful insights that support better business decisions.
+Hello! I'm Pragati Hage, a Computer Science Engineering student passionate about data analytics and problem-solving.
 
-I enjoy exploring datasets, cleaning data, writing SQL queries,
-and creating visualizations to discover useful patterns.
+I enjoy exploring datasets, cleaning data, writing SQL queries, and creating visualizations to discover meaningful patterns and business insights.
+
+- 🎓 B.Tech in Computer Science Engineering (2023–2027)
+- 📊 Interested in data analysis and business intelligence
+- 🐍 Practicing Python for data analysis
+- 🗄️ Learning SQL and database management
+- 📈 Exploring Excel dashboards and Power BI
 
 ## 🛠️ Technical Skills
 
@@ -38,6 +42,8 @@ and creating visualizations to discover useful patterns.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -45,24 +51,27 @@ and creating visualizations to discover useful patterns.
 
 ### 📈 Retail Sales EDA
 
-Exploratory data analysis to understand sales trends,
-product performance, and business insights.
+Exploratory data analysis to understand sales trends, product performance, and business insights.
 
-🔗 [Explore My Repositories](https://github.com/pragatihage140305?tab=repositories)
+🔗 [View My Repositories](https://github.com/pragatihage140305?tab=repositories)
 
 ### 🏥 Healthcare Risk Analysis
 
-Exploring healthcare data to understand risk factors
-and identify useful patterns.
+Exploring healthcare data to understand risk factors and identify useful patterns.
 
-🔗 [Explore My Repositories](https://github.com/pragatihage140305?tab=repositories)
+🔗 [View My Repositories](https://github.com/pragatihage140305?tab=repositories)
 
 ### 🗄️ SQL & PostgreSQL Practice
 
-Practicing SQL queries, database operations,
-filtering, aggregation, and data analysis.
+Practicing SQL queries, database operations, filtering, sorting, and aggregation.
 
-🔗 [Explore My SQL Projects](https://github.com/pragatihage140305?tab=repositories)
+🔗 [View My SQL Projects](https://github.com/pragatihage140305?tab=repositories)
+
+### 📗 Excel Learning Journey
+
+Practicing Excel formulas, IF functions, conditional formatting, and data analysis.
+
+🔗 [View My Repositories](https://github.com/pragatihage140305?tab=repositories)
 
 ## 🌱 Currently Working On
 
@@ -73,8 +82,7 @@ filtering, aggregation, and data analysis.
 
 ## 🎯 My Goal
 
-To become a skilled Data Analyst by combining
-technical skills, analytical thinking, and business understanding.
+To become a skilled Data Analyst by combining technical skills, analytical thinking, and business understanding.
 
 ---
 
